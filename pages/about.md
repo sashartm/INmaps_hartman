@@ -16,7 +16,7 @@ credits: true
 
 Sasha Hartman is a 3rd semester graduate student studying Library Science at Indiana University - Bloomington. They are concentrating in Rare Books and Special Collections, working as a student cataloger at the Lilly Library. They got their Bachelor of Arts in Earth and Atmospheric Sciences in 2023, with a minor in GIS. Their hobbies include arts and crafts of all sorts, reading, and hanging out with their cat, Fern.
 
-{% include objectid="/assets/img/IMG_2095.jpg" %}
-{% include objectid="/assets/img/IMG_2215.jpg" %}
+{% objectid="/assets/img/IMG_2095.jpg" %}
+{% objectid="/assets/img/IMG_2215.jpg" %}
 
  {:.text-center}
