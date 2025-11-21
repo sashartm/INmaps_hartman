@@ -19,5 +19,5 @@ Sasha Hartman is a 3rd semester graduate student studying Library Science at Ind
 
 {% include feature/image.html objectid="assets/img/IMG_0595.jpg" %}
 
-{% include feature/image.html objectid="IMG_2215.jpg" %}
+{% include feature/image.html objectid="assets/img/IMG_2215.jpg" %}
  {:.text-center}
