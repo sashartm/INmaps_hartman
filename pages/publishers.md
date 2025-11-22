@@ -1,3 +1,3 @@
 title: Publishers
-layout: about
+layout: Publishers
 permalink: /publishers.html
