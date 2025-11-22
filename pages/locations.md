@@ -9,6 +9,4 @@ cloud-fields: site.data.theme.locations-fields
 ---
 
 ## Browse Publishers
-
-Use this word cloud visualization to browse locations.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Publishing is an important part of figuring out who published what, where they did it, and why. The 'why' can usually amount to money or who sponsored the creation of the map. Here, you can see who was publishing the most Indiana maps.
